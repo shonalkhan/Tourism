@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "784764792967",
+    "project_id": "shaundb-205b5",
+    "storage_bucket": "shaundb-205b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784764792967:android:98ce5a3b9ef2c6f5fb4822",
+        "android_client_info": {
+          "package_name": "com.example.res_tourism"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBLRCv4MjAwkZm_HhJQCLRf-TSIWTI4ZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
